@@ -47,7 +47,7 @@ The system operates on a 4-Layer distributed design[cite: 1]:
 
 ---
 
-## 👥 Contributors
+## 👥 Contributors 
 *   **Nishanth M** - Project Lead & Developer[cite: 1]
 *   **Mukesh M** - Hardware Integration[cite: 1]
 *   **Prasanna P** - Testing & Documentation[cite: 1]
